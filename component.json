@@ -2,7 +2,7 @@
   "name": "core",
   "repo": "twitter-bootstrap/core",
   "description": "Base CSS.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [ "twitter", "bootstrap", "core" ],
   "dependencies": {},
   "development": {},
